@@ -1,0 +1,93 @@
+*{
+
+}
+h1{
+font-size:60px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: aquamarine;
+
+}
+nav{
+    font-size: 18px;
+    display: inline;
+    justify-content: space-evenly;
+    text-align: center; 
+    opacity: 0.5;
+   
+}
+a{
+    color:aquamarine;
+    background-color: gray;
+    border-radius: 45%;  
+}
+a:visited{
+    color:cadetblue;
+}
+#link{
+    color:mediumslateblue;
+    opacity: 0.5;
+}
+div.titles{
+    text-align:center; 
+    align-content: center;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 25px;
+}
+div.bana{
+    display: inline-flex;
+}
+div#left{
+    display:flex;
+}
+img#onion{
+    display: flex;
+    align-items:stretch;
+    max-width: 250px;
+     justify-content: left;
+}
+div#right{
+    display: flex;
+    justify-content: right;
+    max-width: fit-content;
+    align-items: center;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    font-size: 17px;
+    text-align: justify;
+    Margin:15px;
+    padding-left: 15px;
+}
+p#quote{
+    font-size: 20px;
+}
+img#u{
+    width:200px;
+    margin: 20px;
+}
+img#w{
+    width:200px;
+    margin:20px;}
+img#v{
+    width:200px;
+    margin: 20px;
+}
+div#sev{
+    display: inline-flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+div.Staff{
+    Margin:15px;
+    padding:15px;
+    font: size 20px ;
+}
+footer{
+    text-align: center;
+}
